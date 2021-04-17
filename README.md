@@ -1,6 +1,10 @@
 # flutter_application_2
 
-A new Flutter project.
+A new Basic Flutter project with Button and widgets.
+Button CLick and change values. just and simple .
+![Uploading 1.png…]()
+
+<img width="370" alt="Screen Shot 2021-04-17 at 7 52 03 PM" src="https://user-images.githubusercontent.com/12158468/115115484-80e09c00-9fb6-11eb-931c-ab4c46b69634.png">
 
 ## Getting Started
 
